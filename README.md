@@ -1,11 +1,11 @@
 # CV - Marie-Louise Annan
 
-| Languages  | Framework / Libraries  | Testing  | Tools/ Others  | Databases  |
+| Languages  | Framework / Libraries  | Testing  | Tools / Others  | Databases  |
 |---|---|---|---|---|
 | Python   | Flask  | PyTest  | Git  |  PostgreSQL |
 | JavaScript  | React.js  | Jest  | Docker  |   |
-| CSS3  | Node.js  |   |   |   |
-| HTML5  | Express.js  |   |   |   |
+| CSS3  | Node.js  |   |PyCharm CE   |   | 
+| HTML5  | Express.js  |   |  PhpStorm IDE |   |
 | SQL  |   |   |   |   |
 
 # Relevant Experience
