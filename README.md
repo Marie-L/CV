@@ -6,7 +6,7 @@
 | JavaScript  | React.js  | Jest  | Docker  |   |
 | CSS3  | Node.js  |   |PyCharm CE   |   | 
 | HTML5  | Express.js  |   |  PhpStorm IDE |   |
-| SQL  |   |   |   |   |
+| SQL  | Drupal  |   |   |   |
 
 # Relevant Experience
 
