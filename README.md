@@ -10,7 +10,7 @@
 
 # Relevant Experience
 
-**Lewisham Multi Lingual Advice Service** Full Stack Software Developer
+**Lewisham Multilingual Advice Service** Full Stack Software Developer
 
 - November 2019 - Present
 
@@ -20,7 +20,7 @@
 
 # Other Experience and Interests
 
-**Lewisham Multi Lingual Advice Service** Volunteer Digital strategist
+**Lewisham Multilingual Advice Service** Volunteer Digital strategist
 
 - July 2017 - March 2018
 
@@ -42,7 +42,7 @@
 
 # Academic Achievements
 
-**City & Guilds** Software Developer Apprenticeship Level 4 :
+**City & Guilds** - Software Developer Apprenticeship Level 4 :
 - Diploma in Software Language
 - Diploma in Software Methodologies
 
@@ -51,7 +51,7 @@
 - GRADE : TBC
 
 
-**University Of The Arts London : LCC** BA(Hons) Production for Live Events & TV
+**University Of The Arts London : LCC** -  BA(Hons) Production for Live Events & TV
 - Digital Design & Content Creation Pathway
 
 - September 2012 - July 2015
