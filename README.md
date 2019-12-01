@@ -10,14 +10,17 @@ I’m an experienced full stack developer who loves to learn new things. I'm har
 
 _November 2019 - Present_
 
+- Responsible for building a new website for the organisation
+- Tech Stack : Python, Flask, Node, React
+- Developing : Software Development, Agile and Version Control skills
+
 **The Wellcome Trust** / Software Developer Apprentice
 
 _March 2018 - October 2019_
 
 - Responsible for writing code which meets required specifications; fixing bugs; participating effectively in an Agile team, learning new technologies and staying up to date with existing ones.
-
+- Tech Stack : JavaScript, CSS/SASS, HTML, PHP, Drupal, Node
 - Main achievements: working within a team who proposed an idea to improve infrastructure. Our aim was to support staff across the organisation to work more collaboratively and efficiently. This has resulted in me becoming the co - owner of a medium sized feature, ‘Project Group Pages’ template for the organisation’s intranet, Trustnet.
-
 - Developed: Software Development, Agile and Version Control skills
 
 # Other Experience and Interests
