@@ -1,5 +1,11 @@
 # CV - Marie-Louise Annan
 
+## Personal Profile
+
+I’m an experienced software developer who loves to learn new things. I'm hard working, I complete tasks in a timely manner and I’m currently looking for an exiting new opportunity.
+
+
+
 | Languages  | Framework / Libraries  | Testing  | Tools / Others  | Databases  |
 |---|---|---|---|---|
 | Python   | Flask  | PyTest  | Git  |  PostgreSQL |
@@ -48,7 +54,7 @@
 
 - January 2018 - November 2019
 - CITY OF LONDON
-- GRADE : TBC
+- GRADE : PASS
 
 
 **University Of The Arts London : LCC** -  BA(Hons) Production for Live Events & TV
