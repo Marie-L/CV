@@ -2,7 +2,7 @@
 
 ## Personal Profile
 
-I’m an experienced software developer who loves to learn new things. I'm hard working, I complete tasks in a timely manner and I’m currently looking for an exiting new opportunity.
+I’m an experienced software developer who loves to learn new things. I'm hard working and I complete tasks in a timely manner. I have good knowledge of Python and Javascript ecosystems and I’m currently looking for an exiting new opportunity.
 
 ## Relevant Experience
 
