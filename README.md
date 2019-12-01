@@ -4,16 +4,6 @@
 
 I’m an experienced software developer who loves to learn new things. I'm hard working, I complete tasks in a timely manner and I’m currently looking for an exiting new opportunity.
 
-
-
-| Languages  | Framework / Libraries  | Testing  | Tools / Others  | Databases  |
-|---|---|---|---|---|
-| Python   | Flask  | PyTest  | Git  |  PostgreSQL |
-| JavaScript  | React.js  | Jest  | Docker  |   |
-| CSS3  | Node.js  |   |PyCharm CE   |   | 
-| HTML5  | Express.js  |   |  PhpStorm IDE |   |
-| SQL  | Drupal  |   |   |   |
-
 # Relevant Experience
 
 **Lewisham Multilingual Advice Service** Full Stack Software Developer
@@ -45,6 +35,17 @@ I’m an experienced software developer who loves to learn new things. I'm hard 
 **Marrie Lui Ltd** Founder & Designer
 
 - 
+
+# Skills
+
+| Languages  | Framework / Libraries  | Testing  | Tools / Others  | Databases  |
+|---|---|---|---|---|
+| Python   | Flask  | PyTest  | Git  |  PostgreSQL |
+| JavaScript  | React.js  | Jest  | Docker  |   |
+| CSS3  | Node.js  |   |PyCharm CE   |   | 
+| HTML5  | Express.js  |   |  PhpStorm IDE |   |
+| SQL  | Drupal  |   |   |   |
+
 
 # Academic Achievements
 
