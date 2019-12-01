@@ -1,4 +1,4 @@
-![ml header](/img/ml_cv_header1.png)
+![ml header](/img/ml_cv_header2.png)
 
 ## Personal Profile
 
