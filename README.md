@@ -50,7 +50,7 @@ _January 2018 - November 2019_
 
 Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diploma in Software Methodologies)_
 
-Pass
+- Pass
 
 
 **University Of The Arts London : LCC** 
@@ -59,11 +59,11 @@ _September 2012 - July 2015_
 
 BA(Hons) Production for Live Events & TV :Digital Design & Content Creation Pathway
 
-1st Class Honours
+- 1st Class Honours
 
 ## Interests
 
-**Programming:** Python, Data, Web animation, AI, Machine Learning
+**Programming:** Python, Data, Web animation, Machine Learning
 
 **Hobbies:** Learning Spanish, Nurturing a collection of Bonsai and other plant trees.
 
