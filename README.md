@@ -47,9 +47,7 @@ _March 2018 - October 2019_
 
 ## Academic Achievements
 
-**Happy Ltd.** 
-
-_January 2018 - November 2019_
+**Happy Ltd.** _(Jan 2018 - Nov 2019)_
 
 Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diploma in Software Methodologies)_
 
