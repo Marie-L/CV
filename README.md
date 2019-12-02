@@ -27,7 +27,7 @@ _November 2019 - Present_
 
 _March 2018 - October 2019_
 
-- Responsible for writing code which meets required specifications both front-end and backend; delving into legacy code to implement designs, fix bugs and refactor code in order to alleviate technical debt. I am also responsible for writing documentation; supporting feature builds and participating effectively in an Agile team.
+- Responsible for writing code which meets required specifications both front-end and backend; delving into legacy code to implement designs, fix bugs and refactor code in order to alleviate technical debt. Also responsible for writing documentation; supporting feature builds and participating effectively in an Agile team.
 - Tech Stack : JavaScript, CSS/SASS, HTML, PHP, Drupal, Node
 - Main achievements: working within a team who proposed an idea to improve infrastructure. Our aim was to support staff across the organisation to work more collaboratively and efficiently. This has resulted in me becoming the co - owner of a medium sized feature, ‘Project Group Pages’ template for the organisation’s intranet, Trustnet.
 - Developed: Programming, Agile and Version Control skills
