@@ -63,3 +63,6 @@ BA(Hons) Production for Live Events & TV - Digital Design & Content Creation Pat
 
 **Hobbies:** Learning Spanish, Nurturing a collection of Bonsai and other plant trees.
 
+ ## Contact
+ 
+  [email](mailto:ml_annan@hotmail.com)
