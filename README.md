@@ -36,6 +36,7 @@ _July 2017 - March 2018_
 - Developed: web editing , SE0, digital strategy and project management skills.
 
 **Maternity Leave**
+
 _February 2016 - March 2018_
 
 **Peckham Platform** / Marketing Intern
