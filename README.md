@@ -7,6 +7,7 @@ I’m an experienced full stack developer who loves to learn new things. I'm har
 ## Relevant Experience
 
 **Lewisham Multilingual Advice Service** / Full Stack Software Developer
+
 _November 2019 - Present_
 
 - Solely responsible for building a new website for the organisation
@@ -14,12 +15,14 @@ _November 2019 - Present_
 - Developing : Software Development, Agile and Version Control skills
 
 **PyLadies International** / Projects Communications Coordinator
+
 _November 2019 - Present_
 - Responsible for increasing engagement, encouraging collaboration and improving online resources
 - Developing : Agile and Python skills
 
 
 **The Wellcome Trust** / Software Developer Apprentice
+
 _March 2018 - October 2019_
 
 - Responsible for writing code which meets required specifications; fixing bugs; participating effectively in an Agile team, learning new technologies and staying up to date with existing ones.
@@ -30,6 +33,7 @@ _March 2018 - October 2019_
 ## Other Experiences
 
 **Lewisham Multilingual Advice Service** / Volunteer Digital strategist
+
 _July 2017 - March 2018_
 
 - Solely responsible for implementing a new digital marketing strategy, managing social media, updating the WordPress site, defining strategies for SEO, user experience and web accessibility, designing and creating web assets, building wireframes, specifications and prototypes.
