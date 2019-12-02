@@ -18,7 +18,7 @@ _November 2019 - Present_
 
 _November 2019 - Present_
 - Responsible for increasing engagement, encouraging collaboration and improving online resources
-- Developing : Agile and Python skills
+- Developing : Agile and project management skills
 
 
 **The Wellcome Trust** / Software Developer Apprentice
