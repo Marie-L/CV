@@ -68,14 +68,18 @@ _August 2015 - February 2016_
 
 ## Academic Achievements
 
-**Happy Ltd.** _January 2018 - November 2019_
+**Happy Ltd.** 
+
+_January 2018 - November 2019_
 
 City & Guilds Software Developer Apprenticeship Level 4 (Diploma in Software Language & Diploma in Software Methodologies)
 
 PASS
 
 
-**University Of The Arts London : LCC** _September 2012 - July 2015_
+**University Of The Arts London : LCC** 
+
+_September 2012 - July 2015_
 
 BA(Hons) Production for Live Events & TV :Digital Design & Content Creation Pathway
 
