@@ -49,19 +49,13 @@ _March 2018 - October 2019_
 
 **Happy Ltd.** _(Jan 2018 - Nov 2019)_
 
-Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diploma in Software Methodologies)_
-
-- Pass
+Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diploma in Software Methodologies)_ : Pass
 
 ***
 
-**University Of The Arts London : LCC** 
+**University Of The Arts London : LCC** _(September 2012 - July 2015)_
 
-_September 2012 - July 2015_
-
-BA(Hons) Production for Live Events & TV :Digital Design & Content Creation Pathway
-
-- 1st Class Honours
+BA(Hons) Production for Live Events & TV - Digital Design & Content Creation Pathway : 1st Class Honours
 
 ## Interests
 
