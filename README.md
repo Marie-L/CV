@@ -87,7 +87,7 @@ BA(Hons) Production for Live Events & TV :Digital Design & Content Creation Path
 
 ## Interests
 
-**Programming:** Web animation, AI, Machine Learning
+**Programming:** Python, Data, Web animation, AI, Machine Learning
 
-**Hobbies:** Learning Spanish, nurturing a collection of Bonsai and other plant trees.
+**Hobbies:** Learning Spanish, Nurturing a collection of Bonsai and other plant trees.
 
