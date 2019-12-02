@@ -48,7 +48,7 @@ _March 2018 - October 2019_
 
 _January 2018 - November 2019_
 
-City & Guilds Software Developer Apprenticeship Level 4 (Diploma in Software Language & Diploma in Software Methodologies)
+Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diploma in Software Methodologies)_
 
 PASS
 
