@@ -32,6 +32,7 @@ _March 2018 - October 2019_
 - Main achievements: working within a team who proposed an idea to improve infrastructure. Our aim was to support staff across the organisation to work more collaboratively and efficiently. This has resulted in me becoming the co - owner of a medium sized feature, ‘Project Group Pages’ template for the organisation’s intranet, Trustnet.
 - Developed: Software Development, Agile and Version Control skills
 
+***
 
 ## Skills
 
