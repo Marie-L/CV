@@ -14,12 +14,14 @@ _November 2019 - Present_
 - Tech Stack : Python, Flask, JavaScript, Node, React
 - Developing : Software Development, Agile and Version Control skills
 
+***
 **PyLadies International** / Projects Communications Coordinator
 
 _November 2019 - Present_
 - Responsible for increasing engagement, encouraging collaboration and improving online resources
 - Developing : Agile and project management skills
 
+***
 
 **The Wellcome Trust** / Software Developer Apprentice
 
@@ -52,6 +54,7 @@ Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diplo
 
 - Pass
 
+***
 
 **University Of The Arts London : LCC** 
 
