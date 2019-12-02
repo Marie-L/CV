@@ -50,7 +50,7 @@ _January 2018 - November 2019_
 
 Software Developer Apprenticeship Level 4 _(Diploma in Software Language & Diploma in Software Methodologies)_
 
-PASS
+Pass
 
 
 **University Of The Arts London : LCC** 
