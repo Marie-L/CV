@@ -14,10 +14,10 @@ _November 2019 - Present_
 - Developing : Programming, Agile and Version Control skills
 
 ***
-**PyLadies International** / Projects Communications Coordinator
+**PyLadies Global** / Project Communications Co-Lead
 
 _November 2019 - Present_
-- Responsible for increasing engagement, encouraging collaboration and improving online resources
+- Responsible for increasing engagement and collaboration within the community using & developing the Python Software open source programming language
 - Developing : Agile and project management skills
 
 ***
