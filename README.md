@@ -17,8 +17,8 @@ _November 2019 - Present_
 **PyLadies Global** / Project Communications Co-Lead
 
 _November 2019 - Present_
-- Responsible for increasing engagement and collaboration within the community using & developing the Python Software open source programming language
-- Developing : Agile and project management skills
+- Responsible for re-developing and re-branding the blog, increasing engagement and collaboration within the PyLadies community and the wider community using & developing the Python Software open source programming language
+- Developing : Agile, project management and programming skills
 
 ***
 
