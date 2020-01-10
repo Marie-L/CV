@@ -20,6 +20,7 @@ _November 2019 - Present_
 - Responsible for re-developing and re-branding the blog, increasing engagement and collaboration within the PyLadies community and the wider community using & developing the Python Software open source programming language
 - Developing : Agile, project management and programming skills
 
+site: [PyLadies](http://www.pyladies.com/)
 ***
 
 **The Wellcome Trust** / Software Developer Apprentice
@@ -27,10 +28,12 @@ _November 2019 - Present_
 _March 2018 - October 2019_
 
 - Responsible for writing code which meets required specifications both front-end and backend; delving into legacy code to implement designs, fix bugs and refactor code in order to alleviate technical debt. Also responsible for writing documentation; supporting feature builds and participating effectively in an Agile team.
-- Tech Stack : JavaScript, CSS/SASS, HTML, PHP, Drupal, Node, React
+- Team Tech Stack : JavaScript, CSS/SASS, HTML, PHP, Drupal, Node, React
+- Apprenticeship Tech Stack: Python, JavaScript, CSS, HTML, Node, React
 - Main achievements: worked within a team who proposed an idea to improve infrastructure. Our aim was to support staff across the organisation to work more collaboratively and efficiently. This has resulted in me becoming the co - owner of a medium sized feature, _‘Group Pages’_ template for the organisation’s intranet, _Trustnet_.
 - Developed: Programming, Agile and Version Control skills
 
+site : [Wellcome](https://wellcome.ac.uk/)
 ***
 
 ## Skills
@@ -42,6 +45,12 @@ _March 2018 - October 2019_
 | CSS3  | Node.js  |   |PyCharm CE   |   | 
 | HTML5  | Express.js  |   |  PhpStorm IDE |   |
 | SQL  | Drupal  |   |   |   |
+
+## Projects
+
+- [Discover](https://github.com/Marie-L/discover)
+- [Project Pages](https://github.com/Marie-L/ProjectPages)
+- [Lewisham Multilingual Advice Service](https://github.com/Marie-L/lmlas)
 
 
 ## Academic Achievements
