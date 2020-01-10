@@ -18,9 +18,8 @@ _November 2019 - Present_
 
 _November 2019 - Present_
 - Responsible for re-developing and re-branding the blog, increasing engagement and collaboration within the PyLadies community and the wider community using & developing the Python Software open source programming language
-- Developing : Agile, project management and programming skills
-
 - Tech Stack : Python, JavaScript, HTML, CSS
+- Developing : Agile, project management and programming skills
 
 site: [PyLadies](http://www.pyladies.com/)
 ***
