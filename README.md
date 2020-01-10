@@ -21,7 +21,7 @@ _November 2019 - Present_
 - Tech Stack : Python, JavaScript, HTML, CSS
 - Developing : Agile, project management and programming skills
 
-site: [PyLadies](http://www.pyladies.com/)
+[PyLadies](http://www.pyladies.com/)
 ***
 
 **The Wellcome Trust** / Software Developer Apprentice
@@ -35,7 +35,7 @@ _March 2018 - October 2019_
 - Main achievements: worked within a team who proposed an idea to improve infrastructure. Our aim was to support staff across the organisation to work more collaboratively and efficiently. This has resulted in me becoming the co - owner of a medium sized feature, _‘Group Pages’_ template for the organisation’s intranet, _Trustnet_.
 - Developed: Programming, Agile and Version Control skills
 
-site : [Wellcome](https://wellcome.ac.uk/)
+[Wellcome](https://wellcome.ac.uk/)
 ***
 
 ## Skills
