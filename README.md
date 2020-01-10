@@ -10,7 +10,7 @@ I’m an experienced full stack developer who loves to learn new things. I'm har
 _November 2019 - Present_
 
 - Solely responsible for building a new website for the organisation
-- Tech Stack : Python, Flask, JavaScript, Node, React
+- Tech Stack : Python, Flask, JavaScript, CSS, Node, React
 - Developing : Programming, Agile and Version Control skills
 
 ***
@@ -19,6 +19,8 @@ _November 2019 - Present_
 _November 2019 - Present_
 - Responsible for re-developing and re-branding the blog, increasing engagement and collaboration within the PyLadies community and the wider community using & developing the Python Software open source programming language
 - Developing : Agile, project management and programming skills
+
+- Tech Stack : Python, JavaScript, HTML, CSS
 
 site: [PyLadies](http://www.pyladies.com/)
 ***
@@ -30,6 +32,7 @@ _March 2018 - October 2019_
 - Responsible for writing code which meets required specifications both front-end and backend; delving into legacy code to implement designs, fix bugs and refactor code in order to alleviate technical debt. Also responsible for writing documentation; supporting feature builds and participating effectively in an Agile team.
 - Team Tech Stack : JavaScript, CSS/SASS, HTML, PHP, Drupal, Node, React
 - Apprenticeship Tech Stack: Python, JavaScript, CSS, HTML, Node, React
+
 - Main achievements: worked within a team who proposed an idea to improve infrastructure. Our aim was to support staff across the organisation to work more collaboratively and efficiently. This has resulted in me becoming the co - owner of a medium sized feature, _‘Group Pages’_ template for the organisation’s intranet, _Trustnet_.
 - Developed: Programming, Agile and Version Control skills
 
