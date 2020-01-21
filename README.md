@@ -13,6 +13,8 @@ _November 2019 - Present_
 - Tech Stack : Python, Flask, JavaScript, CSS, Node, React
 - Developing : Programming, Agile and Version Control skills
 
+-[LMLAS](https://github.com/Marie-L/lmlas)
+
 ***
 **PyLadies Global** / Project Communications Co-Lead
 
@@ -51,8 +53,8 @@ _March 2018 - October 2019_
 ## Projects
 
 - [Discover](https://github.com/Marie-L/discover)
-- [Project Pages](https://github.com/Marie-L/ProjectPages)
-- [Lewisham Multilingual Advice Service](https://github.com/Marie-L/lmlas)
+- [CRUD API](https://github.com/Marie-L/ProjectPages)
+- [Lewisham Multilingual Advice Service](https://github.com/Marie-L/python_crud)
 
 
 ## Academic Achievements
