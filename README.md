@@ -13,7 +13,7 @@ _November 2019 - Present_
 - Tech Stack : Python, Flask, JavaScript, CSS, Node, React
 - Developing : Programming, Agile and Version Control skills
 
--[LMLAS](https://github.com/Marie-L/lmlas)
+- [LMLAS](https://github.com/Marie-L/lmlas)
 
 ***
 **PyLadies Global** / Project Communications Co-Lead
