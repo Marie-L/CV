@@ -53,8 +53,8 @@ _March 2018 - October 2019_
 ## Projects
 
 - [Discover](https://github.com/Marie-L/discover)
-- [CRUD API](https://github.com/Marie-L/ProjectPages)
-- [Lewisham Multilingual Advice Service](https://github.com/Marie-L/python_crud)
+- [CRUD API](https://github.com/Marie-L/python_crud)
+- [Project Pages](https://github.com/Marie-L/ProjectPages)
 
 
 ## Academic Achievements
