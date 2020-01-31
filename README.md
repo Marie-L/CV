@@ -2,7 +2,7 @@
 
 ## Profile
 
-I’m an experienced full stack developer who loves to learn new things. I'm hard working and I complete tasks in a timely manner. I have good knowledge of Python and JavaScript ecosystems, experience using IDE’s, Git, GitHub, shell scripting and I’m currently looking for an exiting new opportunity.
+I’m an experienced software developer who loves to learn new things. I'm hard working and I complete tasks in a timely manner. I have good knowledge of Python and JavaScript ecosystems, experience using IDE’s, Git, GitHub, shell scripting and I’m currently looking for an exiting new opportunity.
 ## Experience
 
 **Lewisham Multilingual Advice Service** / Full Stack Software Developer
@@ -54,7 +54,7 @@ _March 2018 - October 2019_
 
 - [Discover](https://github.com/Marie-L/discover)
 - [CRUD API](https://github.com/Marie-L/python_crud)
-- [Project Pages](https://github.com/Marie-L/ProjectPages)
+- [Report Exporter](https://github.com/Marie-L/reportExporter)
 
 
 ## Academic Achievements
